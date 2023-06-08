@@ -34,7 +34,7 @@
 <!-- ![Bhavesh's GitHub stats](https://github-contributor-stats.vercel.app/api?username=bhaveshkhatri81&limit=5&theme=flat&combine_all_yearly_contributions=true) -->
 ![Bhavesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhaveshkhatri81&limit=5&theme=flat&combine_all_yearly_contributions=true)
 
-
+<!-- 
 ### 📈 My GitHub Contributions
 ![snake-gif](https://github.com/bhaveshkhatri81/bhaveshkhatri81/blob/output/github-contribution-grid-snake.svg)
-
+ -->
