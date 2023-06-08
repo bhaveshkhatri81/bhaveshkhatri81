@@ -36,5 +36,5 @@
 
 
 ### 📈 My GitHub Contributions
-![Snake animation](https://github.com/bhaveshkhatri81/bhaveshkhatri81/blob/output/github-contribution-grid-snake.svg)
+![snake-gif](https://github.com/bhaveshkhatri81/bhaveshkhatri81/blob/output/github-contribution-grid-snake.svg)
 
