@@ -31,7 +31,8 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhaveshkhatri81&" alt="bhaveshkhatri81" /></p>
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=bhaveshkhatri81&limit=5&theme=flat&combine_all_yearly_contributions=true)
+<!-- ![Bhavesh's GitHub stats](https://github-contributor-stats.vercel.app/api?username=bhaveshkhatri81&limit=5&theme=flat&combine_all_yearly_contributions=true) -->
+![Bhavesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhaveshkhatri81&limit=5&theme=flat&combine_all_yearly_contributions=true)
 
 
 ### 📈 My GitHub Contributions
