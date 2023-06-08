@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bhavesh Khatri</h1>
+<div align="center"> <img src="https://raw.githubusercontent.com/bhaveshkhatri81/bhaveshkhatri81/main/Github%20FrontPage%20README%20banner.jpg"></div>
 <h3 align="center">An enthusiastic Fullstack developer from India. I am now pursuing my Mtech at IIT Jodhpur and enjoy making new acquaintances in my spare time.</h3>
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/bhaveshkhatri81/bhaveshkhatri81/main/Github_FrontPage_README.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhaveshkhatri81&label=Profile%20views&color=0e75b6&style=flat" alt="bhaveshkhatri81" /> </p>
 
@@ -27,4 +29,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhaveshkhatri81&show_icons=true&locale=en" alt="bhaveshkhatri81" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhaveshkhatri81&" alt="bhaveshkhatri81" /></p>
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=bhaveshkhatri81&limit=5&theme=flat&combine_all_yearly_contributions=true)
+
+
+### 📈 My GitHub Contributions
+![Snake animation](https://github.com/bhaveshkhatri81/bhaveshkhatri81/blob/output/github-contribution-grid-snake.svg)
 
